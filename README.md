@@ -1,4 +1,4 @@
-# Fun Little Projects with JavaScripts!
+# Fun Little Projects with JavaScript!
 
 - Auto-write-texts
 - Hamburger menu
